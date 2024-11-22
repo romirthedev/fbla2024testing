@@ -21,8 +21,8 @@ body {
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     text-align: center;
-    width: 400px; /* Increased width */
-    height: 500px; /* Increased height */
+    width: 800px; /* Increased width */
+    height: 1200px; /* Increased height */
 }
 
 .login-container img {
